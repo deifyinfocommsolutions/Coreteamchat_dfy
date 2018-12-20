@@ -1,0 +1,6 @@
+SOURCE_URL=https://github.com/YunoHost/web-js-xmpp-client-chat-rooms/archive/c432c0a6b38d11e34273b3ba07238fed259815cd.zip
+SOURCE_SUM=6bac8c47e2771323ede2d8f909878234
+SOURCE_SUM_PRG=md5sum
+SOURCE_FORMAT=zip
+SOURCE_IN_SUBDIR=true
+SOURCE_FILENAME=
